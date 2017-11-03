@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f75df7a3af4bd8b46e1edda552993809c193903e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b8051e963e529b6f4c9a09f20371e03a62c54a7">
+        <dex dex="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_81656713036482b2e9d08ed1ca952a8836aeecbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sridar\.android\build-cache\5734a698847fe852c4439818d987c1073ec2b65d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_bff0ff2ff2f16eaae1170ca7b4ea3bb41ad948b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sridar\.android\build-cache\e8a1fac289c5164668f8044880524fb5ff5bf0ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_e1eabd4c130b83efb9060f56bc4129ff20b9fc42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sridar\.android\build-cache\8c8a5fc1c8b1e80cd67e2a19a2ffb4d1313f3770\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_5fcfb3a41eb2bb058a5b1cc26d9e93e175db6cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sridar\.android\build-cache\51fe8c27e3db73ddffa7d7a18543407a2ca8e790\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Sridar\AndroidStudioProjects\MusicPlayer\app\build\intermediates\pre-dexed\debug\classes_d0d5fdfa6b351bf07266de4bb6ffc73973fe61cc.jar" />
+    </item>
+
+</items>

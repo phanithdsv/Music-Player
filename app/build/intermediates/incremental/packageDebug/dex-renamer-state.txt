@@ -1,0 +1,7 @@
+#Tue Oct 31 23:24:35 PDT 2017
+base.0=C\:\\Users\\Sridar\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f75df7a3af4bd8b46e1edda552993809c193903e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Sridar\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_81656713036482b2e9d08ed1ca952a8836aeecbd\\classes.dex
+base.1=C\:\\Users\\Sridar\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_81656713036482b2e9d08ed1ca952a8836aeecbd
+file.0=C\:\\Users\\Sridar\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f75df7a3af4bd8b46e1edda552993809c193903e\\classes.dex
